@@ -50,7 +50,7 @@ After building, execute the binary:
 ```  
 
 ### Example Workflow  
-1. Select a model (default is `llama2` if available).  
+1. Select a model (default is any mid weight model available).  
 2. Type a prompt (e.g., `"Explain quantum computing"`).  
 3. Type `"q"` to quit.  
 
@@ -64,7 +64,7 @@ After building, execute the binary:
 ---
 
 ## 🔐 License  
-MIT License (replace with your preferred license)  
+MIT License
 
 ---
 
