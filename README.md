@@ -64,7 +64,7 @@ After building, execute the binary:
 ---
 
 ## 🔐 License  
-MIT License
+Creative Commons CC0
 
 ---
 
